@@ -4,7 +4,7 @@ test
 This is a test repository.
 
 - aaaa
-- bbbb vvvv
+- bbbb
 
 
 create branch!!
